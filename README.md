@@ -5,6 +5,6 @@
 ####
 
 ![Image](https://github.com/rudxowl/PortfolioWeb/blob/master/data_analysis/images/da1.png)
-![Image](https://github.com/rudxowl/PortfolioWeb/blob/master/data_analysis/images/da2.png)
-![Image](https://github.com/rudxowl/PortfolioWeb/blob/master/data_analysis/images/da3.png)
-![Image](https://github.com/rudxowl/PortfolioWeb/blob/master/data_analysis/images/da4.png)
+![Image](https://github.com/rudxowl/PortfolioWeb/blob/master/data_analysis/images/da2.PNG)
+![Image](https://github.com/rudxowl/PortfolioWeb/blob/master/data_analysis/images/da3.PNG)
+![Image](https://github.com/rudxowl/PortfolioWeb/blob/master/data_analysis/images/da4.PNG)
